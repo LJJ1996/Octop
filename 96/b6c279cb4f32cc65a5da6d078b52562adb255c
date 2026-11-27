@@ -1,0 +1,37 @@
+dashboard/src/pages/Agent/Memory/Overview.tsx
+  s_cb308175f8b3c7::t_bb65e476885abb 183-189,387,396,412
+dashboard/src/pages/Agent/Memory/Overview.module.less
+  s_cb308175f8b3c7::t_bb65e476885abb 1091-1096
+dashboard/src/pages/Agent/Memory/Overview.test.tsx
+  s_cb308175f8b3c7::t_df2935f36a0db9 66-73
+  s_cb308175f8b3c7::t_056c55c0dfc5d8 54-65
+dashboard/src/pages/Agent/Memory/AtomsList.tsx
+  s_cb308175f8b3c7::t_bb65e476885abb 20,76,82,91,113,124,204-218,231,263-267,330-333
+CHANGELOG.md
+  s_cb308175f8b3c7::t_e37bd1107626dc 5
+dashboard/src/pages/Agent/Memory/AtomsList.test.tsx
+  s_cb308175f8b3c7::t_056c55c0dfc5d8 94-96,104-106,129-134,138-142,147-153,156-159,166-169,171-176,182-188,204-210
+  s_cb308175f8b3c7::t_df2935f36a0db9 13,69,98,101,107-128,135-137,143-146,154-155,160-165,170,177-181,189-203,211
+dashboard/src/api/modules/memoryDashboard.ts
+  s_cb308175f8b3c7::t_bb65e476885abb 343-344
+docs/api.md
+  s_cb308175f8b3c7::t_e37bd1107626dc 463-478
+dashboard/src/locales/en.json
+  s_cb308175f8b3c7::t_48590c6692d73f 5477,5632-5634
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "96b6c279cb4f32cc65a5da6d078b52562adb255c",
+  "prompts": {},
+  "sessions": {
+    "s_cb308175f8b3c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21ad7-7648-7ac3-9955-989ffe493eef",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "LJJ1996 <27555076+LJJ1996@users.noreply.github.com>"
+    }
+  }
+}
