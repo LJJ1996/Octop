@@ -1,0 +1,40 @@
+deploy/helm/octop/README_CN.md
+  s_cb308175f8b3c7::t_7d971a224e489f 15,19,28,32,98,107,141,153,199
+deploy/helm/octop/Chart.yaml
+  s_cb308175f8b3c7::t_7d971a224e489f 6
+README_CN.md
+  s_cb308175f8b3c7::t_7d971a224e489f 18
+src/octop/__init__.py
+  s_cb308175f8b3c7::t_7d971a224e489f 7
+docs/cluster_CN.md
+  s_cb308175f8b3c7::t_7d971a224e489f 219,230,268,281,310,321
+README.md
+  s_cb308175f8b3c7::t_7d971a224e489f 18
+deploy/helm/octop/values.example.yaml
+  s_cb308175f8b3c7::t_7d971a224e489f 3,18
+CHANGELOG.md
+  s_cb308175f8b3c7::t_8159596d926dbe 10-11
+  s_cb308175f8b3c7::t_7d971a224e489f 13-23,26-34
+pyproject.toml
+  s_cb308175f8b3c7::t_7d971a224e489f 7
+deploy/helm/octop/README.md
+  s_cb308175f8b3c7::t_7d971a224e489f 15,19,28,32,98,107,141,153,200
+uv.lock
+  s_cb308175f8b3c7::t_d5d1a1db488b2a 2605
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "693918c44dcac869e820cafd3d46a227c29b25d4",
+  "prompts": {},
+  "sessions": {
+    "s_cb308175f8b3c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21ad7-7648-7ac3-9955-989ffe493eef",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "LJJ1996 <27555076+LJJ1996@users.noreply.github.com>"
+    }
+  }
+}
